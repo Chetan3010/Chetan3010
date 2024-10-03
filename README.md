@@ -1,4 +1,4 @@
-# Hey there 👋! I'm Chetan Laxman Kale.
+# Hey there 👋! <br> I'm Chetan Laxman Kale.
 
 ## 💫 About Me:
 👨‍🔧 I'm a Full Stack Developer.<br>🏢 I'm currently seeking job opportunities.<br>📍 Based near Thane, Maharashtra.<br>🌱 I'm enhancing my backend skills and working on an exciting project.😉<br>💬 Feel free to reach out if you have questions about MERN—I’m happy to help!<br>⚒️ I also enjoy troubleshooting bugs.<br>📮 You can contact me at ckale2001@gmail.com.
