@@ -1,7 +1,7 @@
 # Hey there 👋! <br> I'm Chetan Laxman Kale.
 
 ## 💫 About Me:
-👨‍🔧 I'm a Full Stack Developer.<br>🏢 I'm currently seeking job opportunities.<br>📍 Based near Thane, Maharashtra.<br>🌱 I'm enhancing my backend skills and working on an exciting project.😉<br>💬 Feel free to reach out- I’m happy to help!<br>⚒️ I also enjoy troubleshooting bugs.<br>📮 You can contact me at ckale2001@gmail.com.
+👨‍🔧 I'm a Full Stack Developer.<br>🏢 I'm currently seeking job opportunities.<br>📍 Based near mumbai, Maharashtra.<br>🌱 I'm enhancing my backend skills and working on an exciting project.😉<br>💬 Feel free to reach out- I’m happy to help!<br>⚒️ I also enjoy troubleshooting bugs.<br>📮 You can contact me at ckale2001@gmail.com.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chetan.3010) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chetan3010) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Chetan_1030) 
